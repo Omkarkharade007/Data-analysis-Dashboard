@@ -13,5 +13,5 @@ higest selling category ?
 ## Insights (output) from dashboard
 Focus on Women as they are buying more as compared to Men (65%) so target women customers falling in the age group of 30-49.
 Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamilnadu are the top 5 contributing states.
-Adult is maximum contributing so they are significant for business (50%).
+Adult age group is maximum contributing so they are significant for business (50%).
 Amazon,flipkart and myntra are the most contributing channels among all (80%).
