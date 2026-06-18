@@ -2,7 +2,7 @@
 I have created a interactive dashboard indicating the annual report  of sai cloth stores for the year of 2022 with the use of data cleaning, data processing, data visualisation, pivot chart analysis.
 ## Objective of Dashboard  
 Sai cloth stores wants to create annuals sales report for the year 2022 and want an analysis so accprdingly they can create strategy and grow their business.
-# Input for the creation of dashboard
+## Input for the creation of dashboard
 which month got the highest sales and orders ?
 who purchased more men or women in 2022? ( men or women customers who is more significant to business ?)
 what are the different order status in 2022?
